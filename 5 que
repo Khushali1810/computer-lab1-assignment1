@@ -1,0 +1,13 @@
+#include <stdio.h>
+void main()
+{
+    int x,y,sum,diff,prod ;
+    printf("Enter a number X: ");
+    scanf("%d", &a);
+    printf("Enter a number Y: ");
+    scanf("%d", &b);
+    sum=x+y;
+    diff=x-y;
+    prod=x*y;
+    printf("The sum of X and Y is %d. \n The subtraction is %d. \n And the product is %d. ", sum,diff,prod);
+}
