@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main() 
+{
+    float gs,x,y;
+    printf("Enter gross salary");
+    scanf("%f", &gs);
+    x = gross * 0.10;
+    y = gross * 0.03;
+    printf("Net salary: %f\n", gs + a - d);
+}
