@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+    float rs,dollar;
+    printf("Enter amount in rupees");
+    scanf("%f", &rs);
+    dollar= r/48;
+    printf("amount in dollars is %.2f\n",d);
+}
